@@ -1,0 +1,16 @@
+body {
+    background-color: #BDD5EA !important;
+}
+
+.navbar a {
+    color: #F7F7FF !important;
+}
+
+.navbar a:hover {
+    color: #000 !important;
+    transition: 0.5s;
+}
+
+Table {
+    background-color: #F7F7FF;
+}
