@@ -1,6 +1,6 @@
 # COMP 3123 Assignments
 ### Year: 2021
-A folder of the two projects we were tasked with making for COMP 3123 (Full Stack Development I). 
+A folder of the two projects we were tasked with making for COMP 3123 (Full Stack Development I) at George Brown College. 
 
 The first assignment was mostly an introduction to Express and how to get things running on Postman, and the second was to show us how to combine front end and back end. 
 For the second assignment, we were supposed to separate the front end and back end projects into separate folders, which is why they're in separate folders in this repo.
