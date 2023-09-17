@@ -50,22 +50,22 @@ For the second assignment, we were supposed to separate the front end and back e
 
 <img width="960" alt="post7" src="https://github.com/msirna/COMP-3123-Assignments/assets/91761269/72f98cfd-2c1f-40cf-af10-b622625986f6">
 
-*The "Get Employees" call shown in Postman*
+*The "Get Employees" call shown in Postman:*
 
 <img width="960" alt="post8" src="https://github.com/msirna/COMP-3123-Assignments/assets/91761269/e317e193-c4d4-48ae-a403-6695856a56da">
 
-*The "Add Employees" call shown in Postman*
+*The "Add Employees" call shown in Postman:*
 
 <img width="960" alt="post9" src="https://github.com/msirna/COMP-3123-Assignments/assets/91761269/ced05233-305a-46d0-b5c4-308765f59093">
 
-*The "Get Employee by ID" call shown in Postman*
+*The "Get Employee by ID" call shown in Postman:*
 
 <img width="960" alt="post10" src="https://github.com/msirna/COMP-3123-Assignments/assets/91761269/03ee7f1f-d9e6-4237-a1f9-81970fcb55d5">
 
-*The "Update Employee by ID" call shown in Postman*
+*The "Update Employee by ID" call shown in Postman:*
 
 <img width="960" alt="post11" src="https://github.com/msirna/COMP-3123-Assignments/assets/91761269/45492a5d-6f33-44d6-aa44-78238e225809">
 
-*The "Delete Employee by ID" call shown in Postman*
+*The "Delete Employee by ID" call shown in Postman:*
 
 <img width="960" alt="post12" src="https://github.com/msirna/COMP-3123-Assignments/assets/91761269/1d5a305d-23f1-4f4d-956b-c6e6cd684806">
