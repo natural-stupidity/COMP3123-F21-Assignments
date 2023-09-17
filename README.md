@@ -18,9 +18,10 @@ Both assignments have the same main function of storing data about users or empl
 
 ## How to Run:
 1. Open the `.sln` (Project Solution) file located in each of the folders for the program.
-2. For Assignment 2, make sure you paste your MongoDB database URL into `app.js`
+2. For Assignment 2, make sure you paste your MongoDB database URL into `app.js`.
 3. From there, all you should need to do is run the program. You may need to build the project first.
     - Be sure to have Postman, as that's the only way to test and work with Assignment 1.
+    - To run React for Assignment 2, navigate to the folder in a Command Line Interface and type `npm start`. You may have to update a few things since this was made in 2021.
 
 ## Screenshots:
 *The front page of assignment 2 with some example employees:*
